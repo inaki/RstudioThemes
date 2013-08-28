@@ -8,3 +8,9 @@
 	<li>then put copy and paste the body of your html doc in the theme you choose</li>
 	<li>and surprise everyone!</li>
 </ol>
+
+<h4> Example Projects </h4>
+
+<ul>
+	<li><a href="http://iaranzadi.com/r/introR/index.html">Introdución a R</a></li>
+</ul>
