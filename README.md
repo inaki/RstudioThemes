@@ -1,6 +1,6 @@
 <h1>Rstudio Themes Project</h1>
 
-<h2>This is just a simple projecto to provide some themes for your Rstudio projects.</h2>
+<h4>This is just a simple projecto to provide some themes for your Rstudio projects.</h4>
 
 <p>It's very easy to use:</p>
 <ol>
