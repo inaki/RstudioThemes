@@ -6,4 +6,5 @@
 <ol>
 	<li>clone the theme you like</li>
 	<li>then put copy and paste the body of your html doc in the theme you choose</li>
+	<li>and surprise everyone!</li>
 </ol>
